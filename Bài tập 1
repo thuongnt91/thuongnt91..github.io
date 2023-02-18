@@ -1,1 +1,67 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Bài tập 1.Tạo danh sách</title>
+  </head>
+  <body>
+    <h1>An Unordered HTML list</h1>
+    <ul style="list-style-type: square;">
+      <li>Coffee</li>
+        <!-- <ul>
+            <li>Green Tea</li>
+            <li>Black Tea</li>
+            <li>Pink Tea</li>
+        </ul> -->
+      <li>Tea</li>
+            <!-- <li>Green Tea</li>
+            <li>Black Tea</li>
+            <li>Pink Tea</li> -->
+      <li>Milk</li>
+        <!-- <dl>
+            <dt>CowMilk</dt>
+            <dd>Rat tot cho suc khoe,nen uong 3 lan 1 ngay</dd>
+        </dl> -->
+    </ul>
+    <h1>An Ordered HTML List</h1>
+    <ol type="1">
+      <li>Coffee</li>
+      <!-- <ol type="i">
+        <li>cà phê sữa </li>
+        <li>cà phê đen đá</li>
+         <li>lattle</li>
+         <li>capuchino</li>
+      </ol> -->
+      <li>Tea</li>
+      <li>Milk</li>
+    </ol> 
+    <!-- <h1>
+        Phân biệt các loại Coffee
+    </h1>
+    <ul>
+        <li><a target="blank" href="https://vi.wikipedia.org/wiki/C%C3%A0_ph%C3%AA_s%E1%BB%AFa">Cà phê sữa</a></li>
+        <li><a target="blank" href="https://noithatcaphe.vn/cach-pha-ca-phe-den-truyen-thong-2507.htm#:~:text=C%C3%A0%20ph%C3%AA%20%C4%91en%20l%C3%A0%20lo%E1%BA%A1i,%C4%91%E1%BA%BFn%20nguy%C3%AAn%20li%E1%BB%87u%20chu%E1%BA%A9n%20b%E1%BB%8B.">Cà phê đen</a></li>
+        <li><a target="_blank" href="https://chefjob.vn/cafe-latte-la-gi">Cà phê lattle</a></li>
+        <li><a target="_blank" href="https://www.dienmayxanh.com/vao-bep/ca-phe-capuchino-la-gi-cach-uong-cafe-capuchino-va-cac-loai-15504">capuchino</a></li>
+    </ul>
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: crimson;
+        }
+        li{
+            float: left;
+        }
+        li a{ 
+                display: block;
+                color: gold;
+                text-align: center;
+                padding: 16px;
+        }
+    </style> -->
+  </body>
+</html>
